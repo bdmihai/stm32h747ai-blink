@@ -1,6 +1,6 @@
 #______________________________________________________________________________
 #│                                                                            |
-#│ COPYRIGHT (C) 2023 Mihai Baneu                                             |
+#│ COPYRIGHT (C) 2024 Mihai Baneu                                             |
 #│                                                                            |
 #| Permission is hereby  granted,  free of charge,  to any person obtaining a |
 #| copy of this software and associated documentation files (the "Software"), |
@@ -21,11 +21,11 @@
 #| THE USE OR OTHER DEALINGS IN THE SOFTWARE.                                 |
 #|____________________________________________________________________________|
 #|                                                                            |
-#|  Author: Mihai Baneu                           Last modified: 29.Dec.2023  |
+#|  Author: Mihai Baneu                           Last modified: 12.Feb.2024  |
 #|                                                                            |
 #|____________________________________________________________________________|
 
-CONFIG_MCU                  = STM32H747AI
+CONFIG_MCU                  = STM32H747XI_M4
 CONFIG_OPENOCD              = /usr/local/bin/openocd
 CONFIG_OPENOCDCONFIGDIR     = /usr/local/share/openocd/scripts
 CONFIG_OPENOCD_INTERFACE    = interface/stlink-v3.cfg

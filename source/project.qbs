@@ -41,5 +41,3 @@ Project {
         'app/app.qbs'
     ]
 }
-
-
